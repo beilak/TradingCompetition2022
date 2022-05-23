@@ -1,4 +1,4 @@
-#ARIMAdeMarkLongHFT
+# ARIMAdeMarkLongHFT
 
 Модель спекулятивной торговли.
 
